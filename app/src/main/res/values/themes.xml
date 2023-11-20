@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Theme.Ma3" parent="android:Theme.Material.Light.NoActionBar" >
+    <item name="android:windowBackground">@drawable/splash_background</item>
+    <item name="colorPrimary">#FF000000</item>
+    <item name="colorPrimaryDark">#FF000000</item>
+    <item name="colorAccent">#FF000000</item>
+    <item name="android:statusBarColor">#FF000000</item>
+</style>
+</resources>
